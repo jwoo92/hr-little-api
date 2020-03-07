@@ -6,7 +6,7 @@ you can make your robot speak, walk and animate!
 
 Read the documentation here: https://github.com/hansonrobotics/hr-little-api
 
-hr-little-api is compatible with Python 3.6 and above and is distributed with 
+hr-little-api is compatible with Python 3.6 and above and is distributed with
 the Apache 2.0 License.
 '''
 

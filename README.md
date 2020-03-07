@@ -47,7 +47,7 @@ how to use the API and it's various features.
 ### Setting up your robot
 Turn on Professor Einstein with the power button on at the back:
 
-![Professor Einstein on/off button](https://github.com/jdddog/consumer_robot_api/blob/master/docs/einstein_power.jpg?raw=true)
+![Professor Einstein on/off button](https://github.com/hansonrobotics/hr-little-api/blob/master/docs/einstein_power.jpg?raw=true)
 
 When your robot starts up, it should say:
 > Ok here we go, just one, I don't see any WiFi networks I recognize, go to the connection channel in your Stein-O-Matic
@@ -56,7 +56,7 @@ When your robot starts up, it should say:
 To program Professor Einstein, you will need his WiFi SSID and password. To find this, press the `Binding Button` as 
 shown in the image below:
 
-![Binding button](https://github.com/jdddog/consumer_robot_api/blob/master/docs/einstein_binding_button.jpg?raw=true)
+![Binding button](https://github.com/hansonrobotics/hr-little-api/blob/master/docs/einstein_binding_button.jpg?raw=true)
 
 Professor Einstein should then say the following:
 > Go to your device settings and look for network EinsteinXXXX my password is geniusXXXX.
